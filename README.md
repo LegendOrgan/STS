@@ -28,9 +28,3 @@ Let's say you have these details for MATH:
 - Test 3: 17
 
 After you enter this, you will get asked for PC then SVT then... until BEHAVIOR (سلوك), after you will get the total semester point.
-
-## Explanation:
-
-Average test score for MATH: (12 + 16 + 17) / 3 = 15
-Weighted total: 15 (average test score) * 4 (coefficient) = 60
-Semester total score: (weighted total of all subjects) / 31 (total coefficient) = X.XXXX

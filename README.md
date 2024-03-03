@@ -4,9 +4,9 @@ This improved Python application assists you in calculating your semester total 
 
 ## Key Features:
 
-**User-friendly interface:** Guides you through the process of providing subject information, number of tests, and individual test scores.
-**Accurate calculations:** Calculates average test scores, weighted totals based on credits, and the overall semester total score considering Tronc Commun specifics.
-**Clear output:** Displays your calculated semester total score.
+- **User-friendly interface:** Guides you through the process of providing subject information, number of tests, and individual test scores.
+- **Accurate calculations:** Calculates average test scores, weighted totals based on credits, and the overall semester total score considering Tronc Commun specifics.
+- **Clear output:** Displays your calculated semester total score.
 
 ## How to Use:
 
@@ -15,17 +15,17 @@ This improved Python application assists you in calculating your semester total 
 python tronc_commun_sts.py
 
 **Follow the prompts:** Enter the requested information for each subject, including:
-*Number of tests:* Number of tests you took in the subject.
-*Individual test scores:* Scores for each test out of 20.
-*View your semester total score:* The script will display your calculated semester total score, helping you gauge your academic performance.
+- *Number of tests:* Number of tests you took in the subject.
+- *Individual test scores:* Scores for each test out of 20.
+- *View your semester total score:* The script will display your calculated semester total score, helping you gauge your academic performance.
 
 ### Example Output:
 Let's say you have these details for MATH:
 
-Number of tests: 3
-Test 1: 12
-Test 2: 16
-Test 3: 17
+- Number of tests: 3
+- Test 1: 12
+- Test 2: 16
+- Test 3: 17
 
 After you enter this, you will get asked for PC then SVT then... until BEHAVIOR (سلوك), after you will get the total semester point.
 

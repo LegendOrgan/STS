@@ -1,6 +1,6 @@
 
 # Semester Total Score (STS) Calculator (Tronc Commun, Morocco)
-This improved Python application assists you in calculating your semester total score (STS), taking into account your course grades, credits (معامل), and test performance for Tronc Commun subjects in Morocco.
+This improved Python application assists you in calculating your semester total score (STS), taking into account your course grades, coefficient (معامل), and test performance for Tronc Commun subjects in Morocco.
 
 ## Key Features:
 
